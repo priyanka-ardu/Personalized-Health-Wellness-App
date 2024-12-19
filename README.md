@@ -50,5 +50,5 @@ An AI-powered, MERN-based web application designed to offer personalized health 
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/priyanka-ardu/Personalized-Health-Wellness-App.git
    cd Personalized-Health-Wellness-App
